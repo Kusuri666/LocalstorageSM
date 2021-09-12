@@ -1,0 +1,38 @@
+.h1{
+    text-shadow: rgb(218, 211, 211);
+    color: yellow;
+   
+
+}
+#btn{
+  background-color:rgb(236, 241, 225);
+  border-radius:40%;
+  border-color: rgb(238, 240, 235);
+  color: #000;
+  height: 50px;
+  width: 100px;
+
+}
+.fon{
+    background-color: rgb(20, 20, 20);
+}
+.ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+}
+li{
+    padding: 20px;
+}
+#r1{
+    background-color: rgb(235, 238, 52);
+    padding: 50px;
+    border: 1px solid #000;
+}
+.r2{
+    color: black;
+    border: 1px solid #000;
+   background-color: rgb(235, 238, 52, 0.5);
+   padding: 100px;
+}
